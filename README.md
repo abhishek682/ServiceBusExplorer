@@ -1,8 +1,3 @@
-
-Hello World!!!!!
-
-Hellow world!!! again
-
 **Author:** Paolo Salvatori ([@babosbird](https://twitter.com/babosbird))  
 **Collaborators:**  Sean Feldman ([@sfeldman](https://twitter.com/sfeldman)) and Erik Mogensen ([@koltrast](https://twitter.com/koltrast))  
 **Contributors:** [Many](https://github.com/paolosalvatori/ServiceBusExplorer/graphs/contributors)
